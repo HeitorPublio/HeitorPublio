@@ -16,9 +16,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HeitorPublio/HeitorPublio/output/snake.svg" alt="Snake animation" />
-
-###
