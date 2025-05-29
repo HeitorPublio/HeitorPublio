@@ -4,6 +4,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
+  <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" height="80" alt="sql logo"/>
 </div>
 
 ###
