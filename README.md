@@ -6,7 +6,7 @@
   <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" height="70" style="margin-right: 15px;" alt="python logo"/>
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="70" style="margin-right: 15px;" alt="power bi logo"/>
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="70" style="margin-right: 15px;" alt="excel logo"/>
-  <img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" height="70" alt="sql logo"/>
+  <img src="https://img.icons8.com/?size=100&id=ZLWYCoOSfqql&format=png&color=000000" height="70" alt="sql logo"/>
 </div>
 
 ###
