@@ -3,10 +3,11 @@
 ###
 
 <div align="left">
-  <img src="img/python_logo.png" height="80" alt="python logo"/>
-  <img src="img/sql_logo.png" height="80" alt="sql logo"/>
-  <img src="img/powerbi_logo.png" height="80" alt="power bi logo"/>
-  <img src="img/excel_logo.png" height="80" alt="excel logo"/>
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="80" style="margin-right: 15px;" alt="python logo" />
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" height="80" style="margin-right: 15px;" alt="power bi logo" />
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo.jpg" height="80" style="margin-right: 15px;" alt="excel logo" />
+  <img src="https://static.vecteezy.com/system/resources/previews/036/044/336/non_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" height="80" alt="sql logo" />
+
 </div>
 
 ###
