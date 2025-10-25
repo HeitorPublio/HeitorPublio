@@ -3,10 +3,14 @@
 ###
 
 <div align="left">
-  <img src="img/python_logo.png" height="80" alt="python logo"/>
-  <img src="img/sql_logo.png" height="80" alt="sql logo"/>
-  <img src="img/powerbi_logo.png" height="80" alt="power bi logo"/>
-  <img src="img/excel_logo.png" height="80" alt="excel logo"/>
+  <img src="img/python_logo.png" height="80" style="margin-right: 10px;" alt="python logo"/>
+  <p>Python</p>
+  <img src="img/sql_logo.png" height="80" style="margin-right: 10px;" alt="sql logo"/>
+  <p>SQL</p>
+  <img src="img/powerbi_logo.png" height="80" style="margin-right: 10px;" alt="power bi logo"/>
+  <p>Power BI</p>
+  <img src="img/excel_logo.png" height="80" style="margin-right: 10px;" alt="excel logo"/>
+  <p>Excel</p>
 </div>
 
 ###
