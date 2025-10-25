@@ -3,10 +3,10 @@
 ###
 
 <div align="left">
-  <img src="img/python_logo.png" height="80" style="padding-right: 10px;" alt="python"/>
-  <img src="img/sql_logo.png" height="80" style="padding-right: 10px;" alt="sql"/>
-  <img src="img/powerbi_logo.png" height="80" style="padding-right: 10px;" alt="powerbi"/>
-  <img src="img/excel_logo.png" height="80" alt="excel"/>
+  <img src="img/python_logo.png" height="80" alt="python logo"/>
+  <img src="img/sql_logo.png" height="80" alt="sql logo"/>
+  <img src="img/powerbi_logo.png" height="80" alt="power bi logo"/>
+  <img src="img/excel_logo.png" height="80" alt="excel logo"/>
 </div>
 
 ###
