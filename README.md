@@ -9,7 +9,7 @@
   <p>SQL</p>
   <img src="img/powerbi_logo.png" height="80" style="margin-right: 10px;" alt="power bi logo"/>
   <p>Power BI</p>
-  <img src="img/excel_logo.png" height="80" style="margin-right: 10px;" alt="excel logo"/>
+  <img src="img/excel_logo.png" height="80" alt="excel logo"/>
   <p>Excel</p>
 </div>
 
