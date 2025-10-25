@@ -2,14 +2,13 @@
 
 ###
 
-<div align="left">
-![python logo](img/python_logo.png)
-![pandas logo](img/pandas_logo.png)
-![power bi logo](img/powerbi_logo.png)
-![excel logo](img/excel_logo.png)
-![sql logo](img/sql_logo.png)
-  
-</div>
+<p align="left">
+  <img src="img/python_logo.png" height="80" alt="python logo" />
+  <img src="img/pandas_logo.png" height="80" alt="pandas logo" />
+  <img src="img/powerbi_logo.png" height="80" alt="power bi logo" />
+  <img src="img/excel_logo.png" height="80" alt="excel logo" />
+  <img src="img/sql_logo.png" height="80" alt="sql logo" />
+</p>
 
 ###
 
