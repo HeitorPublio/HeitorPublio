@@ -5,7 +5,7 @@
 <div align="left">
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="80" style="margin-right: 15px;" alt="python logo" />
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" height="80" style="margin-right: 15px;" alt="power bi logo" />
-  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo.jpg" height="80" style="margin-right: 15px;" alt="excel logo" />
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="80" style="margin-right: 15px;" alt="excel logo" />
   <img src="https://static.vecteezy.com/system/resources/previews/036/044/336/non_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" height="80" alt="sql logo" />
 
 </div>
